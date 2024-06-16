@@ -15,23 +15,18 @@
     "link": "https://music.oatmilky.top/"
   },
   {
+    "icon": "Video",
+    "name": "视频",
+    "link": "https://video.oatmilky.top/"
+  },
+  {
+    "icon": "Clipboard",
+    "name": "粘贴板",
+    "link": "https://clipboard.oatmilky.top/"
+  },
+  {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "个人NAS导航",
+    "link": "https://www.oatmilky.top/"
   }
 ]
