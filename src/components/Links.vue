@@ -66,7 +66,7 @@ const siteIcon = {
   Blog,
   Cloud,
   CompactDisc,
-  Vido,
+  Video,
   Clipboard,
   Compass,
 };
