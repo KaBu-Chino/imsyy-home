@@ -1,11 +1,5 @@
 [
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "oatmilky0624@oatmilky.top"
-  },
-  {
     "name": "Mastodon",
     "icon": "/images/icon/Mastodon.svg",
     "tip": "长毛象",
