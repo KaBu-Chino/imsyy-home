@@ -4,5 +4,11 @@
     "icon": "/images/icon/Mastodon.svg",
     "tip": "长毛象",
     "url": "https://m.cmx.im/@Oat_Milky"
+  },
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "github",
+    "url": "https://github.com/Oat-Milky-desu"
   }
 ]
