@@ -5,11 +5,6 @@
     "link": "https://blog.oatmilky.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://alist.oatmilky.top/"
-  },
-  {
     "icon": "Search",
     "name": "DuckDuckGo",
     "link": "https://duckduckgo.com//"
@@ -28,5 +23,11 @@
     "icon": "Compass",
     "name": "个人NAS导航",
     "link": "https://panel.oatmilky.top/"
+  }，
+  {
+    "icon": "CircleRegular",
+    "name": "DuckDuckGo AI Chat",
+    "link": "https://duckduckgo.com/?q=DuckDuckGo&ia=chat"
   }
+  
 ]
