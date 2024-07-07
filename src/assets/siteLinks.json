@@ -28,6 +28,11 @@
     "icon": "CircleRegular",
     "name": "AI Chat",
     "link": "https://duckduckgo.com/?q=DuckDuckGo&ia=chat"
+  },
+  {
+    "icon": "Heart",
+    "name": "探针",
+    "link": "https://dashboard.oatmilky.top/"
   }
   
 ]
