@@ -20,19 +20,9 @@
     "link": "https://clipboard.oatmilky.top/"
   },
   {
-    "icon": "Compass",
-    "name": "个人NAS导航",
-    "link": "https://panel.oatmilky.top/"
-  },
-  {
     "icon": "CircleRegular",
     "name": "AI Chat",
     "link": "https://duckduckgo.com/?q=DuckDuckGo&ia=chat"
-  },
-  {
-    "icon": "Heart",
-    "name": "探针",
-    "link": "https://dashboard.oatmilky.top/"
   }
   
 ]
